@@ -1,4 +1,4 @@
-# Beethoven 6th Symphony - Pastoral
+# Beethoven's 6th Symphony - Pastoral
 
 This score is written for Sibelius (https://www.avid.com/sibelius) and should match 1:1 with both the full orchestral score and piano reduction.
 
